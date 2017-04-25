@@ -64,7 +64,9 @@ myElement.style.top = f.offsetY + -90 + 'px';
 }, false); // click event
 }
 }(); //anonymous closure
-var fill;
+var $, fill;
+
+$ = require('jquery');
 
 (fill = function(item) {})('The most creative minds in Art');
 
