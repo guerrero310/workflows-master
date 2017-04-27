@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "?.git"
+    "url": "https://github.com/jonschlinkert/gulp-htmlmin.git"
   },
   "author": "Jose G Guerrero",
   "devDependencies": {
@@ -18,6 +18,9 @@
     "gulp-compass": "^2.1.0",
     "gulp-concat": "^2.6.1",
     "gulp-connect": "^5.0.0",
+    "gulp-if": "^2.0.2",
+    "gulp-minify-html": "^1.0.6",
+    "gulp-uglify": "^2.1.2",
     "gulp-util": "^3.0.8",
     "jquery": "^3.2.1",
     "mustache": "^2.3.0"
